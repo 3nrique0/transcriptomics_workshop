@@ -92,6 +92,7 @@ ls /home/$USER/Documents
 * **rmdir** Removes directory. Only removes empty directories
 * **cd** Change directory
 * **mv** MoVe a file to a location (requires 2 arguments)
+* **less** Allows to read text files on the terminal. Use 'q' to quit the program
 
 The edition and creation of files will depend on each person's computer.
 I'll give you all a hand with this and complete accordingly this section for future notice
