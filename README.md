@@ -96,6 +96,7 @@ ls /home/$USER/Documents
 The edition and creation of files will depend on each person's computer.
 I'll give you all a hand with this and complete accordingly this section for future notice
 
+
 #### Create a data structure for your project
 
 ```
@@ -133,6 +134,20 @@ Save it somewhere and execute it.
 It should deploy a project structure.
 
 Congratulations you made your first script!!
+
+-----
+
+### Types of files -- The bit extra for those who want to try
+
+Go to `myotherproject`
+Explore, move and run some stuff in there.
+
+Can you tell the difference between the kinds of files in the `myotherproject/scripts` and `myotherproject/data`?
+
+Can you run all the scripts and modify them?
+
+-----
+
 
 
 
