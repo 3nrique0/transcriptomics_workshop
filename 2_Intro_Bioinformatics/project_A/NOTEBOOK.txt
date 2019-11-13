@@ -1,0 +1,6 @@
+The NOTEBOOK.txt is used as a lab book..ish
+
+The results and other things will not be posted here, neither the code.
+This will only serve as a reference to the state of advacement of the project.
+
+So
