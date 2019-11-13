@@ -143,20 +143,59 @@ Beware of the path !
 
 --------
 
-## Make your own script to create this 
+## 4. Create a script and run it
+
+
+### Make a script
 
 After trial and error you managed to create that structure.
 So it is time we created a script to be able to do the same thing again.
 
 This means to copy the commands you used to create the folders into one text file.
-To do this you can use the `history` command.
-Save it somewhere and execute it.
+
+To do this, use the `history` command.
+Save the commands that worked in the same order in a text file.
+it somewhere and execute it.
+
+
+### Run the script
+
+To run a script you can run:
+
+```bash
+bash script.sh
+```
+
+Use a full path:
+
+```bash
+bash /home/$user/foo/bar/script.sh
+```
+
+If it is executable you can use:
+```bash
+./script.sh
+/home/$user/foo/bar/./script.sh
+```
+
+
 It should deploy a project structure.
 
-Congratulations you made your first script!!
+If it didn't start from the begining and execute each command line and check that the result is as expected.
 
---> During the workshop we will create the script together AND we will compact the code to make it easier to read.
+**Congratulations you made your first script!!**
 
+
+----
+
+
+
+
+### The resulting script 
+
+Here's a compacted script that we built together.
+This script is also at the root of this repository : `build_project_structure.sh`
+Hoping it will allow you to quickly create a project structure for your future projects
 
 
 
@@ -176,15 +215,11 @@ Can you run all the scripts and modify them?
 
 
 
+## Next sessions
 
 
-
--- > Thursday 7 of november in Salle Polyvalente from 14h to 16h
-
-## Introduction to bioinformatics: What information is where ? What do you mean by "clean data" ?
-
+* 2.Introduction to bioinformatics: What information is where ? What do you mean by "clean data" ?  
 --> Friday 15 of november in Salle Polyvalente from 14h to 16h
 
-## Introduction to RNA-seq analyses on R : Package to be announced
-
+* 3. Introduction to RNA-seq analyses on R : Package to be announced  
 --> Thursday 21st of november in Salle de la Bibliothèque
