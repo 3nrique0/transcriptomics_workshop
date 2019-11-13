@@ -4,14 +4,16 @@ Place and date: At CEFE Thursday 7 of november 2019 in Salle Polyvalente from 14
 
 Let's start by the end, the *take home message*:
 
-1. Understand the structure to the commands.
+1. Get started in the command line.
 2. Move around and inspect directories.
 3. Project structure.
 4. Create a script and run it.
 
 --------
 
-## Understand the structure to the command:
+## 1. Get started in the command line
+
+### Understand the structure to the command
 
 Some commands can work on it's own.
 This usually means that the arguments and parameters have default values
@@ -77,21 +79,38 @@ ls /home/$USER/Documents
 
 -----------
 
-## Basic commands to remember
+## 2. Move around and inspect directories
 
-* **ls** Lists contents of a directory
-* **pwd** Prints ('shows') your Working Directory
-* **mkdir** Make Directory
-* **rmdir** Removes directory. Only removes empty directories
-* **cd** Change directory
-* **mv** MoVe a file to a location (requires 2 arguments)
-* **less** Allows to read text files on the terminal. Use 'q' to quit the program
+### Basic commands to remember
 
-The edition and creation of files will depend on each person's computer.
-I'll give you all a hand with this and complete accordingly this section for future notice
+* **ls** Lists contents of a directory.
+* **pwd** Prints ('shows') your Working Directory.
+* **mkdir** Make Directory.
+* **rmdir** Removes directory. Only removes empty directories.
+* **cd** Change directory.
+* **mv** MoVe a file to a location (requires 2 arguments).
+* **less** Allows to read text files on the terminal. Use 'q' to quit the program.
+
+### Explore a directory
+
+There is already a project directory.
+You can explore it.
+There are more instructions in the **README.txt** files of each directory.
+Find them and follow their instructions.
 
 
-### Create a data structure for your project
+## 3. Project structure
+
+The structure here shown is part of what we call **good practices**.
+This makes your project easy to understand by everybody, specially yourself in some months.
+When working in bioinformatics each project has it's own data, results, plots and steps.
+It will also help you to re-use your scripts.
+
+Most projects use scripts which is a written text file containing the command lines used for that project
+
+### Create a structure for your project
+
+Use the commands from above to create a project structure like this one:
 
 ```
 myproject/
@@ -119,15 +138,27 @@ myproject/
     README.txt
 ```
 
+You can use the command `touch` to create the *README.txt* files.
+Beware of the path !
+
 --------
 
 ## Make your own script to create this 
 
+After trial and error you managed to create that structure.
+So it is time we created a script to be able to do the same thing again.
+
 This means to copy the commands you used to create the folders into one text file.
+To do this you can use the `history` command.
 Save it somewhere and execute it.
 It should deploy a project structure.
 
 Congratulations you made your first script!!
+
+--> During the workshop we will create the script together AND we will compact the code to make it easier to read.
+
+
+
 
 -----
 
