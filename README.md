@@ -21,5 +21,5 @@ Each session is planned to last for 2h+. The program:
 
 ----
 
-
+Pssst, go to the appropriate folder ;-)
 
