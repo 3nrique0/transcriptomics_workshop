@@ -197,6 +197,22 @@ Here's a compacted script that we built together.
 This script is also at the root of this repository : `build_project_structure.sh`
 Hoping it will allow you to quickly create a project structure for your future projects
 
+```bash
+project_dir=$1
+
+mkdir -p ${project_dir}/{data,docs,plots,restults,scripts,steps}
+
+touch ${project_dir}/NOTEBOOK.txt ${project_dir}/README.txt
+
+for i in $(ls -d ${project_dir}/*/)
+do
+    touch ${i}README.txt
+done
+
+echo 'Your project structure has been created in: '
+echo $PWD/${project_dir}
+```
+
 
 
 -----
@@ -221,5 +237,5 @@ Can you run all the scripts and modify them?
 * 2.Introduction to bioinformatics: What information is where ? What do you mean by "clean data" ?  
 --> Friday 15 of november in Salle Polyvalente from 14h to 16h
 
-* 3. Introduction to RNA-seq analyses on R : Package to be announced  
+* 3.Introduction to RNA-seq analyses on R : Package to be announced  
 --> Thursday 21st of november in Salle de la Bibliothèque

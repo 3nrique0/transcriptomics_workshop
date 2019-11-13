@@ -23,3 +23,9 @@ Each session is planned to last for 2h+. The program:
 
 Pssst, go to the appropriate folder ;-)
 
+----
+
+For people in a hurry, the script to create a project structure is:
+
+`1_Intro_Linux/build_project_structure.sh`
+
