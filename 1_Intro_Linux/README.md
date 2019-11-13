@@ -188,7 +188,19 @@ If it didn't start from the begining and execute each command line and check tha
 
 ----
 
+## The ansers
 
+### Basic commands to remember
+
+* **ls** Lists contents of a directory.
+* **pwd** Prints ('shows') your Working Directory.
+* **mkdir** Make Directory.
+* **rmdir** Removes directory. Only removes empty directories.
+* **cd** Change directory.
+* **mv** MoVe a file to a location (requires 2 arguments).
+* **less** Allows to read text files on the terminal. Use 'q' to quit the program.
+* **touch** Creates an empty text file that you can edit
+* **history** Prints the last commands you executed.
 
 
 ### The resulting script 
@@ -210,7 +222,7 @@ do
 done
 
 echo 'Your project structure has been created in: '
-echo $PWD/${project_dir}
+echo ${project_dir}
 ```
 
 
