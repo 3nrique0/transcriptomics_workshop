@@ -8,14 +8,17 @@ This is an introductory hands on workshop for people working in [CEFE](https://w
 This is an introduction trying to promote good practices for bioinformatics.
 I hope you'll enjoy it.
 
+----
+
 Each session is planned to last for 2h+. The program:
 
-1. Introduction to linux  
+1. **Introduction to linux**  
 -- > Thursday 7 of november in Salle Polyvalente from 14h to 16h  
-2. Introduction to bioinformatics: What information is where ? What do you mean by "clean data" ?  
+2. **Introduction to bioinformatics: What information is where ? What do you mean by "clean data" ?**  
 --> Friday 15 of november in Salle Polyvalente from 14h to 16h
-3. Introduction to RNA-seq analyses on R : Package to be announced  
+3. **Introduction to RNA-seq analyses on R : Package to be announced**  
 --> Thursday 21st of november in Salle de la Bibliothèque
+----
 
 
 
