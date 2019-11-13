@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	HI.5155.002.NEBNext_dual_i7_A12---NEBNext_dual_i5_A12.21_R2	/mnt/alpha_raid/Documents/courses_given/transcriptomics_workshop/2_Intro_Bioinformatics/project_A/restults/qc_series_1/fastqc/HI.5155.002.NEBNext_dual_i7_A12---NEBNext_dual_i5_A12.21_R2_fastqc.zip
+FastQC	all_sections	HI.5155.002.NEBNext_dual_i7_A12---NEBNext_dual_i5_A12.21_R1	/mnt/alpha_raid/Documents/courses_given/transcriptomics_workshop/2_Intro_Bioinformatics/project_A/restults/qc_series_1/fastqc/HI.5155.002.NEBNext_dual_i7_A12---NEBNext_dual_i5_A12.21_R1_fastqc.zip

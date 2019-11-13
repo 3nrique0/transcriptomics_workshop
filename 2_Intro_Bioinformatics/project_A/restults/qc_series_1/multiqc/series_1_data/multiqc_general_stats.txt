@@ -1,0 +1,3 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+HI.5155.002.NEBNext_dual_i7_A12---NEBNext_dual_i5_A12.21_R1	50.06327500308289	51.0	100.0	18.181818181818183	485841.0
+HI.5155.002.NEBNext_dual_i7_A12---NEBNext_dual_i5_A12.21_R2	41.09185903686786	51.0	100.0	0.0	485841.0
