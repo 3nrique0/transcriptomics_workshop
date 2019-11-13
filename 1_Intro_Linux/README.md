@@ -1,11 +1,4 @@
-# Transcriptomics Workshop
-
-Three lessons with bare bones know-hows to get started.
-This is not an extensive workshop !!
-
-Each session is planned to last for 2h.
-
-## Lesson 1 Brief linux introduction
+# Lesson 1 Brief linux introduction
 
 Place and date: At CEFE Thursday 7 of november 2019 in Salle Polyvalente from 14h to 16h
 
@@ -18,7 +11,7 @@ Let's start by the end, the *take home message*:
 
 --------
 
-### Understand the structure to the command:
+## Understand the structure to the command:
 
 Some commands can work on it's own.
 This usually means that the arguments and parameters have default values
@@ -49,7 +42,7 @@ An argument is that extra bit which is not a parameter
 command -p -q -r1 -parameter 123 argument_1 argument_2
 ```
 
-#### Examples with command ls
+### Examples with command ls
 
 `ls` command stands for *list* the contents of a directory.
 The default directory is the one where you are, the *working directory*.
@@ -84,7 +77,7 @@ ls /home/$USER/Documents
 
 -----------
 
-### Basic commands to remember
+## Basic commands to remember
 
 * **ls** Lists contents of a directory
 * **pwd** Prints ('shows') your Working Directory
@@ -98,7 +91,7 @@ The edition and creation of files will depend on each person's computer.
 I'll give you all a hand with this and complete accordingly this section for future notice
 
 
-#### Create a data structure for your project
+### Create a data structure for your project
 
 ```
 myproject/
@@ -128,7 +121,7 @@ myproject/
 
 --------
 
-### Make your own script to create this 
+## Make your own script to create this 
 
 This means to copy the commands you used to create the folders into one text file.
 Save it somewhere and execute it.
@@ -138,7 +131,7 @@ Congratulations you made your first script!!
 
 -----
 
-### Types of files -- The bit extra for those who want to try
+## Types of files -- The bit extra for those who want to try
 
 Go to `myotherproject`
 Explore, move and run some stuff in there.
@@ -152,9 +145,7 @@ Can you run all the scripts and modify them?
 
 
 
---------
 
-## Next sessions
 
 
 -- > Thursday 7 of november in Salle Polyvalente from 14h to 16h
