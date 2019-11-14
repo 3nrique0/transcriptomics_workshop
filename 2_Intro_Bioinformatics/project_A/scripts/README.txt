@@ -1,4 +1,4 @@
-Some scripts have been brought from another project.
+A) Some scripts have been brought from another project.
 
 - Are all files regular scripts ?
 
@@ -6,14 +6,14 @@ Some scripts have been brought from another project.
 
 - Can you modify what they do ?
 
-
-Which script was used to make a quality check ?
-
-Where are the results for quality check ?
-
-How does a quality check works ? --> Go analyse the results and then come back for the next part
+- Rename the scripts !
 
 
-How can you clean the data ?
 
-If this file is not useful, add some notes which will make it useful !
+
+B) What are the steps to follow ? ---> See the steps directory
+
+How would you re-organize the scripts ?
+
+
+
