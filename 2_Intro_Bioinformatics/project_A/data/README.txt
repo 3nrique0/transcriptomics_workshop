@@ -16,16 +16,17 @@ raw_data
         Contains 1 pair of reads straight from sequencer
 
 
-    series_2 -- Send it to project_B
-        ? Contains an example of bad quality weird data
-        ? more data and let people analyse this one
+    series_2 -- Data got delayed
 
 
-    series_3
+    series_3 -- Quality before sequencing failed
 
 
 reference
+    The genome is from XXX
+    link to the reference if it's public
 
 clean_data
     series_1
+        Not too much data was lost
 
