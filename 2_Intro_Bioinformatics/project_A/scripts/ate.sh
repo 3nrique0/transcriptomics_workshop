@@ -2,6 +2,6 @@
 
 bash scripts/pat.sh
 echo $? 
-echo $0
+echo this script is $0
 echo $$
 

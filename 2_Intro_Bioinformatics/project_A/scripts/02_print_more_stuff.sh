@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo Hello, it hass been a longtime $USER
+echo Hello, it has been a longtime $USER
+echo here is a list of the data
 
 ls -hlt ../data
 

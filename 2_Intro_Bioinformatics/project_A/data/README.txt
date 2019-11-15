@@ -25,6 +25,37 @@ raw_data
 
 
 reference
+    Downloaded from:
+        https://www.ncbi.nlm.nih.gov/assembly/GCF_000005845.2#
+    ASM584v2
+    
+    Organism name:
+        Escherichia coli str. K-12 substr. MG1655 (E. coli)
+    Infraspecific name:
+        Strain: K-12 substr. MG1655
+    BioSample:
+        SAMN02604091
+    BioProject:
+        PRJNA225
+    Submitter:
+        Univ. Wisconsin
+    Date:
+        2013/09/26
+    Assembly type:
+        na
+    Assembly level:
+        Complete Genome
+    Genome representation:
+        full
+    RefSeq category:
+        reference genome
+    GenBank assembly accession:
+        GCA_000005845.2 (latest)
+    RefSeq assembly accession:
+        GCF_000005845.2 (latest)
+    RefSeq assembly and GenBank assembly identical:
+        yes
+
 
 clean_data
     series_1

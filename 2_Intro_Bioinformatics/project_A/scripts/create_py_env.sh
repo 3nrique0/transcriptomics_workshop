@@ -2,7 +2,7 @@
 
 # Some tools require a python environment to work / be installed
 
-py_env_dir=scripts/py_env/
+py_env_dir=/home/$user/envs/
 
 mkdir -p $py_env_dir
 
@@ -12,8 +12,8 @@ virtualenv -p $(readlink $(command -v python3)) $py_env_dir
 ## Install softwares in that environtment
 ## CODE NOT WORKING
 
-# source ${py_env_dir}bin/activate
+source ${py_env_dir}bin/activate
 
-# pip install multiqc
+pip install multiqc
 
-# deactivate
+deactivate

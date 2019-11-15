@@ -2,6 +2,7 @@
 
 echo Hello $USER
 
+echo today is:
 date
 
 echo Bye bye $USER 

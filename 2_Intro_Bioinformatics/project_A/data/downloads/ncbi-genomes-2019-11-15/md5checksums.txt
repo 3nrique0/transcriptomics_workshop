@@ -1,0 +1,1 @@
+c708a9ab0cc22432c284b66f3a19cc12  GCA_000005845.2_ASM584v2_genomic.gbff.gz
