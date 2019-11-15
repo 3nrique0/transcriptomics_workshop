@@ -2,7 +2,7 @@
 
 # Some tools require a python environment to work / be installed
 
-py_env_dir=/home/$user/envs/
+py_env_dir=/home/$user/envs/ngs_workshop
 
 mkdir -p $py_env_dir
 
