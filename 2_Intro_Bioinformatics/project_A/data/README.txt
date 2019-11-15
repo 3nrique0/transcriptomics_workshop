@@ -16,15 +16,14 @@ raw_data
         Contains 1 pair of reads straight from sequencer
 
 
-    series_2 -- Send it to project_B
-        ? Contains an example of bad quality weird data
-        ? more data and let people analyse this one
+    series_2 -- Data got delayed
 
 
-    series_3
+    series_3 -- Quality before sequencing failed
 
 
 reference
+<<<<<<< HEAD
     Downloaded from:
         https://www.ncbi.nlm.nih.gov/assembly/GCF_000005845.2#
     ASM584v2
@@ -56,7 +55,12 @@ reference
     RefSeq assembly and GenBank assembly identical:
         yes
 
+=======
+    The genome is from XXX
+    link to the reference if it's public
+>>>>>>> 28c990d69e19d023bc64fa97f0cafb111e3ce7fe
 
 clean_data
     series_1
+        Not too much data was lost
 

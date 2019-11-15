@@ -38,20 +38,18 @@ In short:
 
 ## 3.Treating NGS data
 
-Treating NGS data for most omics is very similar. Some parameters or stages may change, but the core is very similar.
+Treating NGS data for most omics is very similar. What you'll learn here may be declined in other projects
 
 ### a) Download data
 
-Your provider will give you a link to download the data.
-The provider may give you a text file containing a 2 coloumn table. On one column the file name, on the other an [**md5sum**](https://en.wikipedia.org/wiki/Md5sum). It is a file fingerprint. You'll have to calculate them for all the fliles. if the number is exactly the same, the information is exactly the same.
+Your provider will give you a link to download the data. Check for integrity.
+If the provider has given you a text file containing a 2 coloumn table. On one column the file name, on the other an [**md5sum**](https://en.wikipedia.org/wiki/Md5sum). It is a file fingerprint. You'll have to calculate them for all the fliles. if the number is exactly the same, the information is exactly the same.
 
 Find where are the **.fastq.gz** files. If you made Paired End (PE) sequencing you'll find R1 and R2 files.
 
 Check the `data/raw_data` directory
 
-What kind of files are they ? Can you open them ?
-
-What information is contained there ? 
+What kind of files are they ? Inspect the data folder
 
 The Wikipedia page for [Fastq format](https://en.wikipedia.org/wiki/FASTQ_format) is the more complete. We'll explore it together.
 
@@ -96,18 +94,5 @@ Here again, there are many choices. for programs
 
 How to assess Quickly the quality of the mapping ?
 
-
-## Check the README.txt
-
-**_ALWAYS ALWAYS ALWAYS_** start by checking the README.txt file.
-Maybe the information contained is trivial, but in a few months it may be helpful.
-If it is not helpful, you can modify it :-)
-
-
-Is there a NOTEBOOK.txt file ? What is the advancement of the project ?
-Can we go check out what has been done and how it works ?
-
-
-
-This is session 2 of the introduction to Transcriptomics
-
+**YAY!! You can check the quality of your data, and prepare the mapping files!!
+Congratulations!! **

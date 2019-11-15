@@ -4,12 +4,14 @@ The results and other things will not be posted here, neither the code.
 This will only serve as a reference to the state of advacement of the project.
 
 IDEALLY
-There are 3 series of data, they are supposed to come from 3 different batches of the same organism.
+There are several batches of data, So we can treat them separately.
 
 So far: 
 -Series_1 is 1 pair of reads
     fastqc has worked on it
     creating local virutalenv to use multiqc was a failure
     multiqc has ran on admin's ~/envs/biopython
+
+Is there a difference in the mapping if data is cleaned or not cleaned ? -- This will be the objective of today's workshop
 
 
