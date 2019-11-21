@@ -5,6 +5,8 @@ You'll have to make your own symbolic links to get things up and running.
 
 The list_of_files.txt will help you get a sample of files to work with.
 
+You may want to keep sequencing batches separated during the first phases of the data treatment. You can use symlinks in a directory if you want to use all files at once.
+
 raw_data/batch_1
     It contains a DELETEME.txt that should not be there. it is necessary for the directory to remain there.
     This is just a small sample of the data to be trated.
