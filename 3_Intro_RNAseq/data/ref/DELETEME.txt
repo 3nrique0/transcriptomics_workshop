@@ -1,0 +1,5 @@
+DELETEME.txt
+
+** This file is only here to keep the directory existing in git
+** In order to make your life easier DON'T ADD ANYTHING ELSE
+
