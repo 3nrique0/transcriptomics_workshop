@@ -1,0 +1,6 @@
+3_Intro_RNAseq/data/ref/*
+3_Intro_RNAseq/data/no_adapter/*
+3_Intro_RNAseq/data/ref/trimming/*
+3_Intro_RNAseq/results/qc_raw_data/*.zip
+3_Intro_RNAseq/results/qc_raw_data/multiqc/batch_1_data/
+

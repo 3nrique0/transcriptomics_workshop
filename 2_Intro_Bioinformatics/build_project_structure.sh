@@ -18,5 +18,5 @@ done
 
 # Print on the screen the full path of the localisation of the project
 echo 'Your project structure has been created in: '
-echo $PWD/${project_dir}
+echo ${project_dir}
 
