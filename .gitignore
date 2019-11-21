@@ -1,3 +1,10 @@
+*.zip
+*.fastq.gz
+*.gz
+*.fq.gz
+*.gb
+*.fasta
+
 3_Intro_RNAseq/data/ref/*
 3_Intro_RNAseq/data/no_adapter/*
 3_Intro_RNAseq/data/ref/trimming/*
