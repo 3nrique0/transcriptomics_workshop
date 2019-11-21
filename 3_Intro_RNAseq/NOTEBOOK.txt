@@ -1,0 +1,19 @@
+Last update: 20191120
+First Update: 20191120
+
+## DATA
+
+Data is re-downloading from the site of the provider.
+Some samples have been re-sequenced. An update of data is on course
+
+I started a "Best Practices" on this project to keep things tidy.
+
+Quality Check of data will not fully start until the data has been properly downloaded.
+
+Some files will be used for the workshop "Introduction to Transcriptomics": https://github.com/3nrique0/transcriptomics_workshop
+Specially the 3rd part
+
+
+
+## SCRIPTS
+Some gathered from the previous lesson, some build in for this occasion.
