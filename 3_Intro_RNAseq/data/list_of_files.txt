@@ -1,0 +1,8 @@
+HI.5150.006.NEBNext_dual_i7_A8---NEBNext_dual_i5_A8.1_R1.fastq.gz
+HI.5150.006.NEBNext_dual_i7_A8---NEBNext_dual_i5_A8.1_R2.fastq.gz
+HI.5150.006.NEBNext_dual_i7_A9---NEBNext_dual_i5_A9.11_R1.fastq.gz
+HI.5150.006.NEBNext_dual_i7_A9---NEBNext_dual_i5_A9.11_R2.fastq.gz
+HI.5150.006.NEBNext_dual_i7_B8---NEBNext_dual_i5_B8.4_R1.fastq.gz
+HI.5150.006.NEBNext_dual_i7_B8---NEBNext_dual_i5_B8.4_R2.fastq.gz
+HI.5150.006.NEBNext_dual_i7_C8---NEBNext_dual_i5_C8.31_R1.fastq.gz
+HI.5150.006.NEBNext_dual_i7_C8---NEBNext_dual_i5_C8.31_R2.fastq.gz
