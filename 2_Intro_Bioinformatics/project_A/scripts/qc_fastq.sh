@@ -15,15 +15,14 @@ out_dir=$(basename $input_directory)
 
 dataset_name=$2
 
-mkdir -p restults/$out_dir/{fastqc,multiqc}
+# Create directories for the outputs of fastqc and multiqc
+mkdir -p steps/$out_dir/{fastqc,multiqc}
 
-fastqc --no-extract -o restults/$out_dir/fastqc/ input_directory*
+# Run FastQC
+fastqc --no-extract -o steps/$out_dir/fastqc/ $input_directory*
 
 
-# Create a virtual environment to 
-
+# Create a virtual environment to use MultiQC
 source ~/envs/biopython/bin/activate
-multiqc -f -i $dataset_name -n $dataset_name -o restults/$out_dir/multiqc/ restults/$out_dir/fastqc/
+multiqc -f -i $dataset_name -n $dataset_name -o steps/$out_dir/multiqc/ steps/$out_dir/fastqc/
 deactivate
-
-
